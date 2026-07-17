@@ -1,2 +1,21 @@
-# Retail-Sales-Analytics-Dashboard
-An interactive Retail Sales Analytics Dashboard built using Python, Pandas, and Tableau to analyze sales performance and business insights.
+# Retail Sales Analytics Dashboard
+
+Project Overview
+
+Dashboard Preview
+
+Tools & Technologies
+
+Dataset
+
+Dashboard Features
+
+Key Business Insights
+
+Project Structure
+
+How to Run
+
+Future Improvements
+
+Author
